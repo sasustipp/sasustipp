@@ -24,7 +24,7 @@
 	/**
 	 * Protocol and hostname to use for embedded files. Default is https://www.draw.io
 	 */
-	EditorUi.drawHost = 'https://www.draw.io';
+	EditorUi.drawHost = 'https://drawio.web.cern.ch';
 	
 	/**
 	 * Switch to disable logging for mode and search terms.

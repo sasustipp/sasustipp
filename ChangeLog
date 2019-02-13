@@ -1,3 +1,13 @@
+09-FEB-2019: 10.2.1
+
+- Fixes loading of configuration for confluence cloud
+- Adds template-filename URL parameter for binary templates
+- Fixes browser refresh for converted lightbox files
+
+08-FEB-2019: 10.2.0
+
+- Adds vsd(x) and gliffy support in GDrive Connector
+
 07-FEB-2019: 10.1.9
 
 - Renames load event for configuration to configure
